@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mandar Patil - Compiler Engineering Manager at Intel Corporation
-- 👀 I’m interested in middleware, application development and machine learning
+- 👀 I’m interested in middleware, application development and AI 
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
