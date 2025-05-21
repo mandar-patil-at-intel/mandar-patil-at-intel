@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Mandar Patil - Compiler Engineering Manager at Intel Corporation
+- 👋 Hi, I’m Mandar Patil - AI Software Engineering Manager at Intel Corporation
 - 👀 I’m interested in middleware, application development and AI 
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning AI - specifically, agentic web and all things related to it
 
 <!---
 mandar-patil-at-intel/mandar-patil-at-intel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
